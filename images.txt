@@ -1,5 +1,2 @@
 nginx:1.10.0-alpine
 nginx:1.8-alpine
-centos
-whoami
-nginx
